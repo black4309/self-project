@@ -7,3 +7,13 @@
 - 개발 Tool : Eclipse + Windows Builder plug-in
 
 ![텍스트](https://github.com/black4309/self-project/blob/master/etc/eventbob_img.png) 
+
+
+# Libing Moa
+
+주제별 게시판을 추가 & 관리하며, 일반 사용자가 자유롭게 참여 가능한 공개형 커뮤니티
+
+- DB 모델링 : exerd
+- 개발 Tool : STS 4.7.2
+
+![텍스트](https://github.com/black4309/self-project/blob/master/etc/libmoa_img.png) 
